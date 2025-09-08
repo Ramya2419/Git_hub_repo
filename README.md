@@ -46,3 +46,15 @@ Local (current repo)
 Global (current user)
 System (all users)
 The reason to use the different levels is that you can set different values for different users or repositories.
+
+Global(remote) - Github
+Local - PC, Laptop
+
+Clone & Status
+Clone
+cloning  a repo on our local machine(copying from github to local machine)
+git clone <url>
+
+Status
+display the state of the code
+git status
