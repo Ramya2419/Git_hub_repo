@@ -19,3 +19,8 @@ Branch: Work on different versions or features at the same time.
 Merge: Combine changes from different branches.
 Pull: Get the latest changes from a remote repository.
 Push: Send your changes to a remote repository.
+
+
+
+Github
+Website that allows developers to store and manage the code using git.
