@@ -58,3 +58,15 @@ git clone <url>
 Status
 display the state of the code
 git status
+(Before changing any contents of repo within vs code)
+On branch main
+Your branch is up to date with 'origin/main'. nothing to commit, working tree clean
+
+(after changing the content in vs code for the epo folder)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
