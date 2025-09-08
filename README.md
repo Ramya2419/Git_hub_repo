@@ -22,5 +22,10 @@ Push: Send your changes to a remote repository.
 
 
 
-Github
+Github<br>
 Website that allows developers to store and manage the code using git.
+
+Configuring Git
+git config --global user.name "My name"
+git config --global user.email "xyz@gmail.com
+git config --list
