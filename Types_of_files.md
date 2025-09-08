@@ -43,4 +43,18 @@ Changes to be committed:
         new file:   Types_of_files.md   (green color)
 
  Commmit: record of change
- git commit -m "msg"
+ git commit -m "msg"        (Commits in local machine)
+
+
+ types_of_files
+ 2 files changed, 58 insertions(+)
+ create mode 100644 Types_of_files.md
+
+git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+push command
+upload local repo content to remote repo
+git push origin main 
